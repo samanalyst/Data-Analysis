@@ -12,7 +12,7 @@ This project is designed to provide you with basic working knowledge for using E
 
 ## Python for Data Science, AI & Development
 
-Kickstart your learning of Python for data science, as well as programming in general, with this beginner-friendly introduction to Python. Python is one of the world’s most popular programming languages, and there has never been greater demand for professionals with the ability to apply Python fundamentals to drive business solutions across industries. 
+Start learning Python for data science—and programming in general—with this approachable introduction to the language. One of the most widely used programming languages worldwide is Python, and there is a growing need for experts who can use its foundations to develop commercial solutions for a variety of industries. 
 
 
 ## Python Project for Data Science
