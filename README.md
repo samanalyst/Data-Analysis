@@ -35,5 +35,4 @@ Learn how to analyze data using Python. Topics covered:
 
 
 ## Data Visualization with Python
-
-The main goal of this Data Visualization with Python project is to teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually.
+This Python Data Visualization project's major objective is to teach you how to take data that doesn't seem to have much meaning at first and show it in a way that makes sense to other people. A number of methods have been created for the visual presentation of data.
